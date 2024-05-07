@@ -156,6 +156,9 @@
     <ClCompile Include="vendors\nativefiledialog\include\nativefiledialog\src\nfd_zenity.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="src\StringUtil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="vendors\imgui\include\imgui\imstb_truetype.h">
@@ -339,6 +342,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="vendors\nativefiledialog\include\nativefiledialog\src\simple_exec.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\StringUtil.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Defines.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
