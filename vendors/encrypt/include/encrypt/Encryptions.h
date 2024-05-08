@@ -32,33 +32,8 @@ THE SOFTWARE.
 
 // Algorithms
 #include "encrypt/Encryptions/AES.h"
-#include "encrypt/Encryptions/Blowfish.h"
-#include "encrypt/Encryptions/Camellia.h"
-#include "encrypt/Encryptions/CAST128.h"
-#include "encrypt/Encryptions/CAST256.h"
-#include "encrypt/Encryptions/DES.h"
-#include "encrypt/Encryptions/DESX.h"
-#include "encrypt/Encryptions/GOST.h"
-#include "encrypt/Encryptions/IDEA.h"
-#include "encrypt/Encryptions/MISTY1.h"
-#include "encrypt/Encryptions/RC2.h"
-#include "encrypt/Encryptions/RC4.h"
-#include "encrypt/Encryptions/RC5.h"
-#include "encrypt/Encryptions/RC6.h"
-#include "encrypt/Encryptions/SAFERK64.h"
 #include "encrypt/Encryptions/SEED.h"
 #include "encrypt/Encryptions/Skipjack.h"
-#include "encrypt/Encryptions/TDES.h"
-#include "encrypt/Encryptions/TEA.h"
 #include "encrypt/Encryptions/Twofish.h"
-#include "encrypt/Encryptions/XTEA.h"
-
-// Modes of Operation
-#include "encrypt/modes/ECB.h"
-#include "encrypt/modes/CBC.h"
-#include "encrypt/modes/CFB.h"
-#include "encrypt/modes/CTR.h"
-#include "encrypt/modes/OFB.h"
-#include "encrypt/modes/PCPB.h"
 
 #endif
